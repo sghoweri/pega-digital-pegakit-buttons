@@ -1,0 +1,40 @@
+{
+  "name": "pegakit-buttons",
+  "homepage": "https://github.com/pega-digital/components.buttons",
+  "authors": [
+    "Salem Ghoweri <salem.ghoweri@pega.com>"
+  ],
+  "description": "The default Button component. Part of PegaKit&#39;s pre-packaged UI Toolkit.",
+  "main": [
+    "src/components.buttons.scss"
+  ],
+  "moduleType": "globals",
+  "keywords": [
+    "scss",
+    "css",
+    "twig",
+    "html",
+    "javascript",
+    "js",
+    "pegakit",
+    "pegakit-buttons",
+    "button"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    ".bowerrc",
+    ".gitignore",
+    "gulpfile.js",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pega-digital/components.buttons.git"
+  },
+  "dependencies": {
+    "pegakit-css": "*"
+  }
+}
